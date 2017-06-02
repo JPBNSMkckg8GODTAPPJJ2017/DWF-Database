@@ -37,7 +37,7 @@
 "CVE-2016-1000035","2016-03-17","2016-07-19","2016-03-17","0x3d5157636b525761@gmail.com","0x3d5157636b525761@gmail.com","",1,"","PUBLIC","ASUS driver unsafe operation"
 "CVE-2016-1000036","2016-07-21","2016-07-21","2016-07-21","mscherer@redhat.com","kurt@seifried.org","",1,"","PUBLIC","pnda 0.1.0 and earlier use an HTTP url to download software packages and the signing key used to verify them"
 "CVE-2016-1000037","2016-07-25","2016-07-25","2016-07-21","patrick@puiterwijk.org","kurt@seifried.org","",1,"","PUBLIC","Pagure version 2.3.3 and older is vulnerable to cross-site-scripting in the attachment download endpoint"
-"CVE-2016-1000038","2016-08-08","2016-08-08","","patrick@puiterwijk.org","kurt@seifried.org",,1,"","RESERVED",""
+"CVE-2016-1000038","2016-08-08","2016-08-08","2016-08-08","patrick@puiterwijk.org","kurt@seifried.org",,2,"2017-06-02","PUBLIC","Fedora Account System 0.12.0 and older is vulnerable to authentication bypass"
 "CVE-2016-1000100","2016-07-06","2016-07-06","2016-07-18","kseifried@redhat.com","kurt@seifried.org","CVE-2016-5385",2,"2016-07-18","REPLACED",""
 "CVE-2016-1000101","2016-07-06","2016-07-06","2016-07-18","kseifried@redhat.com","kurt@seifried.org","CVE-2016-5386",2,"2016-07-18","REPLACED",""
 "CVE-2016-1000102","2016-07-06","2016-07-06","2016-07-18","kseifried@redhat.com","kurt@seifried.org","CVE-2016-5387",2,"2016-07-18","REPLACED",""
